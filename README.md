@@ -1,0 +1,1 @@
+Repositorio creado para hacer pruebas de aprendizaje en Git y GitHub.
